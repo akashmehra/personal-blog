@@ -20,6 +20,8 @@ interests:
 - Artificial Intelligence
 - Natural Language Processing
 - Generative Models
+- Self-Supervised Learning
+- Transfer Learning
 - Reinforcement Learning
 
 # Education to show in About widget
